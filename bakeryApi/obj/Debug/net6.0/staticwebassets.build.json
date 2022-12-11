@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C34yA2HtAJDc2ZYYvINO7OPTzpkxJ6jjE5UQi78RQ84=",
+  "Source": "bakeryApi",
+  "BasePath": "_content/bakeryApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
